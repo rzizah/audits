@@ -4,7 +4,7 @@ This is my Audit portfolio collecting the contests I participated in and my enga
 
 
 ## About Rzizah
-I am a Web3 security researcher, Most likely Work in a team with [hunter](https://github.com/IlIlHunterlIlI)  as **BUGPULL** .
+I am a Web3 security researcher, Most likely Work in a team with [Hunter](https://github.com/IlIlHunterlIlI)  as **BUGPULL** .
 
 I am doing contests on different platforms like [code4rena](https://code4rena.com/@rzizah), [sherlock](https://audits.sherlock.xyz/watson/rzizah), [codehawks](https://codehawks.cyfrin.io/profile/clz6xbsz700042q5f6tkegul8), and [cantina](https://cantina.xyz/u/rzizah).
 
