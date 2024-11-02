@@ -1,7 +1,9 @@
 # About me
 
-Hi, i'am Mostafa.
-A skilled smart contract auditor and co-leader of [BUGPULL](https://github.com/bugpull/audits), consistently delivering top-notch security audits. With a keen eye for critical and high vulnerabilities, I excel in identifying unique, severe issues across DApps and DeFi protocols, achieving top placements in competitive audit contests.
+Hi, I am Mostafa.
+
+A dedicated smart contract auditor and co-leader of [BUGPULL](https://github.com/bugpull/audits), I combine technical expertise with a strategic focus on enhancing protocol resilience. With a keen eye for unique and high-impact vulnerabilities, I bring both precision and insight to every engagement.
+
 
 # Contact Me
 
