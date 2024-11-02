@@ -26,6 +26,6 @@ A skilled smart contract auditor and co-leader of [BUGPULL](https://github.com/b
 
 # Rzizah Audit Contests
 
-| Contest                                                                     | Description                        | Findings                                                                                    | Rank |                        Report                         |
-| :-------------------------------------------------------------------------- | :--------------------------------- | :------------------------------------------------------------------------------------------ | :--: | :---------------------------------------------------: |
-| [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495) | RWA, real world asset tokenization | [1 M](https://github.com/rzizah/audits/blob/main/Contests/2024-08-midas-minter-redeemer.md) | 11th | [📄](https://audits.sherlock.xyz/contests/495/report) |
+| Contest                                                                     | Date     | Description                        | Findings                                                                                    | Rank |                        Report                         |
+| :-------------------------------------------------------------------------- | -------- | :--------------------------------- | :------------------------------------------------------------------------------------------ | :--: | :---------------------------------------------------: |
+| [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495) | Aug 2024 | RWA, real world asset tokenization | [1 M](https://github.com/rzizah/audits/blob/main/Contests/2024-08-midas-minter-redeemer.md) | 11th | [📄](https://audits.sherlock.xyz/contests/495/report) |
