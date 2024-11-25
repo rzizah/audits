@@ -2,7 +2,7 @@
 
 | ID                                                                                                                             | Title                                         | Severity |
 | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- | -------- |
-| [L-01](2024-08-Midas.md#m-01-discrepancies-between-the-spec-and-the-code-'redeem-mTBILL-for-USDC-pulled-from-BUIDL'-Edge-case) | Compliance issue with eip-4906 in sablierflow | low      |
+| [L-01](#compliance-issue-with-eip-4906-in-sablierflow) | Compliance issue with eip-4906 in sablierflow | low      |
 
 
 # Compliance issue with eip-4906 in sablierflow
