@@ -1,3 +1,8 @@
+# Summary
+
+| ID                                                                                                                             | Title                                         | Severity |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- | -------- |
+| [H-01](#h-01-users-cant-claim-his-rewards-of-epochs-with-the-same-distributionid) | users can't claim his rewards of epochs with the same distributionId | high      |
 
 
 
