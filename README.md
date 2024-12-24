@@ -2,13 +2,15 @@
 
 Hi, I am Mostafa.
 
-A dedicated smart contract auditor and co-leader of [BUGPULL](https://github.com/bugpull/audits), I combine technical expertise with a strategic focus on enhancing protocol resilience. With a keen eye for unique and high-impact vulnerabilities, I bring both precision and insight to every engagement.
+A dedicated smart contract auditor, I combine technical expertise with a strategic focus on enhancing protocol resilience. With a keen eye for unique and high-impact vulnerabilities, I bring both precision and insight to every engagement.
 
 
 # Contact Me
 
 - [X](https://twitter.com/rzizah_)
 - [Discord](https://discordapp.com/users/685836679252148336)
+- [telegram](https://t.me/mrzizah)
+
 
 # 🏆 Honors & Distinctions 🏆
 
