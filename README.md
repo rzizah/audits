@@ -20,6 +20,7 @@ A dedicated smart contract auditor, I combine technical expertise with a strateg
 - Ranked 5th on [Munchables- LandManager](https://code4rena.com/audits/2024-07-munchables)
 - Ranked 8th on [Sablier-Flow](https://codehawks.cyfrin.io/c/2024-10-sablier)
 - Ranked 3rd on [gamma-brevis-rewarder](https://audits.sherlock.xyz/contests/496)
+- Ranked 7th on [OKU](https://audits.sherlock.xyz/contests/641)
 
 # BugPull Audit Contest
 
@@ -27,7 +28,7 @@ A dedicated smart contract auditor, I combine technical expertise with a strateg
 | :------------------------------------------------------------------------- | --------- | :-------------------------------------------------------- | :----------------------------------------------------------------------------------------- | :----: | :----------------------------------------------------: |
 | [Munchables- LandManager](https://code4rena.com/audits/2024-07-munchables) | July 2024 | GameFi, Point Farming                                     | [1 L, 3 H](Contests/2024-07-munchables.md)     | 5th 🏅 | [📄](https://code4rena.com/reports/2024-07-munchables) |
 | [fLayer](https://audits.sherlock.xyz/contests/468?filter=results)          | sep 2024  | NFT Liquidity, and Bridge Protocol (utilizing uniV4 Hook) | [6 M (1 solo), 8H](Contests/2024-08-flayer.md) | 5th 🏅 | [📄](https://audits.sherlock.xyz/contests/468/report)  |
-
+| [OKU](https://audits.sherlock.xyz/contests/641) | Nov 2024 | Advanced Order Book DEX | [5 H, 2M](https://github.com/bugpull/audits/blob/main/Contests/2024-12-OKU.md) | 7th 🏅 | [📄](https://audits.sherlock.xyz/contests/641/report) |
 
 # Rzizah Audit Contests
 
