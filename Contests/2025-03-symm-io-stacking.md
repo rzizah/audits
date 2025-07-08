@@ -1,7 +1,7 @@
 
 | ID                                                                                        | Title                                                                             | Severity |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------- |
-| [M-01](Initialization Vulnerability Leading to Denial of Service in SymmVesting Contract) | Initialization Vulnerability Leading to Denial of Service in SymmVesting Contract | medium   |
+| [M-01](2025-03-symm-io-stacking.md#m-01-initialization-vulnerability-leading-to-denial-of-service-in-symmvesting-contract) | Initialization Vulnerability Leading to Denial of Service in SymmVesting Contract | medium   |
 
 
 ## [M-01] Initialization Vulnerability Leading to Denial of Service in SymmVesting Contract
