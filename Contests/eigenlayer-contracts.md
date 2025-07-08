@@ -2,7 +2,7 @@
 
 | ID                                                                                                                             | Title                                                                                                                  | Severity |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------- |
-| [H-01](Malicious staker can increase shares or bypass the operator slashing due to unsafe type casting in removeDepositShares) | Malicious staker can increase shares or bypass the operator slashing due to unsafe type casting in removeDepositShares | high     |
+| [H-01](eigenlayer-contracts.md#h-01-malicious-staker-can-increase-shares-or-bypass-the-operator-slashing-due-to-unsafe-type-casting-inremovedepositshares) | Malicious staker can increase shares or bypass the operator slashing due to unsafe type casting in removeDepositShares | high     |
 
 
 ## [H-01] Malicious staker can increase shares or bypass the operator slashing due to unsafe type casting in removeDepositShares
