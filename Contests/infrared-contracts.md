@@ -1,7 +1,7 @@
 
 | ID                                                           | Title                                                | Severity |
 | ------------------------------------------------------------ | ---------------------------------------------------- | -------- |
-| [M-01](malicious user can DOS updateRewardsDurationForVault) | malicious user can DOS updateRewardsDurationForVault | Medium   |
+| [M-01](infrared-contracts.md#m-01-malicious-user-can-dos-updaterewardsdurationforvault) | malicious user can DOS updateRewardsDurationForVault | Medium   |
 
 ## [M-01] malicious user can DOS updateRewardsDurationForVault
 ### Summary
