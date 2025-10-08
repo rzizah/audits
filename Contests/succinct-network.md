@@ -2,8 +2,8 @@
 
 | ID                                                                                                                                   | Title                                                                                                                        | Severity |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [L-01](Stakers would avoid slashing effects incase the timing of unstaking came right before reward distribution in SuccinctStaking) | Stakers would avoid slashing effects incase the timing of unstaking came right before reward distribution in SuccinctStaking | LOW      |
-| [I-01](Users will still get slashed after their Unstake period ends)                                                                 | Users will still get slashed after their Unstake period ends                                                                 | INFO     |
+| [L-01](l-01-stakers-would-avoid-slashing-effects-incase-the-timing-of-unstaking-came-right-before-reward-distribution-in-succinctstaking) | Stakers would avoid slashing effects incase the timing of unstaking came right before reward distribution in SuccinctStaking | LOW      |
+| [I-01](i-01-users-will-still-get-slashed-after-their-unstake-period-ends)                                                                 | Users will still get slashed after their Unstake period ends                                                                 | INFO     |
 
 ## [L-01] Stakers would avoid slashing effects incase the timing of unstaking came right before reward distribution in SuccinctStaking
 ### Description
