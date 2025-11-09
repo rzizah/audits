@@ -1,9 +1,9 @@
 
 | ID                                                                                                                     | Title                                                                                                          | Severity |
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------- |
-| [M-01](First Depositor Can Manipulate Share Price to Steal Subsequent Deposits (an inflation attack))                  | First Depositor Can Manipulate Share Price to Steal Subsequent Deposits (an inflation attack)                  | Medium   |
-| [L-01](Rewards sent to empty gauge are permanently lost)                                                               | Rewards sent to empty gauge are permanently lost                                                               | Low      |
-| [L-02](any Split a veNFT into multiple new veNFTs with specified weight distribution will lose rewards for old veNFTs) | any Split a veNFT into multiple new veNFTs with specified weight distribution will lose rewards for old veNFTs | Low      |
+| [M-01](#m-01-first-depositor-can-manipulate-share-price-to-steal-subsequent-deposits-an-inflation-attack)                  | First Depositor Can Manipulate Share Price to Steal Subsequent Deposits (an inflation attack)                  | Medium   |
+| [L-01](#l-01-rewards-sent-to-empty-gauge-are-permanently-lost)                                                               | Rewards sent to empty gauge are permanently lost                                                               | Low      |
+| [L-02](#l-02-any-split-a-venft-into-multiple-new-venfts-with-specified-weight-distribution-will-lose-rewards-for-old-venfts) | any Split a veNFT into multiple new veNFTs with specified weight distribution will lose rewards for old veNFTs | Low      |
 
 
 # [M-01] First Depositor Can Manipulate Share Price to Steal Subsequent Deposits (an inflation attack)
