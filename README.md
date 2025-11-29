@@ -12,6 +12,11 @@ Former Web2 security researcher with notable achievements, including:
 - Participated in more than **14 audit contests**, consistently ranking in the **Top 10** and discovering **unique, high-impact vulnerabilities**
 - Strong across **DeFi**, **AMMs/DEXes, staking, restaking, and DAO governance systems**
 
+**You can find private Audit Process [here](https://github.com/rzizah/audits/blob/main/ask-for-audit.md)**
+
+- Schedule a meeting [Here](https://calendly.com/rzizah/30min)
+
+
 ### Contact Me
 
 - **X (Twitter)**: [Rzizah](https://twitter.com/rzizah_)
