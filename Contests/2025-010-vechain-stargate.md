@@ -1,8 +1,8 @@
 
 | ID                                                                                                                                           | Title                                                                                                                                | Severity |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| [H-01](Stuck funds for the later delegators due to an edge case led to double decreasing effective stakes)                                   | Stuck funds for the later delegators due to an edge case led to double decreasing effective stakes                                   | High     |
-| [H-01](Exited delegator could keep claiming rewards stealing them from active delegators which would then lead to permanent freeze of funds) | Exited delegator could keep claiming rewards stealing them from active delegators which would then lead to permanent freeze of funds | High     |
+| [H-01](#h-01-stuck-funds-for-the-later-delegators-due-to-an-edge-case-led-to-double-decreasing-effective-stakes)                                   | Stuck funds for the later delegators due to an edge case led to double decreasing effective stakes                                   | High     |
+| [H-02](#h-02-exited-delegator-could-keep-claiming-rewards-stealing-them-from-active-delegators-which-would-then-lead-to-permanent-freeze-of-funds) | Exited delegator could keep claiming rewards stealing them from active delegators which would then lead to permanent freeze of funds | High     |
 # [H-01] Stuck funds for the later delegators due to an edge case led to double decreasing effective stakes
 
 ## Brief/Intro
