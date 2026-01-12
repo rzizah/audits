@@ -1,7 +1,7 @@
 
 | ID                                                                                                         | Title                                                                                              | Severity |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------- |
-| [C-01](Stuck funds for the later delegators due to an edge case led to double decreasing effective stakes) | Stuck funds for the later delegators due to an edge case led to double decreasing effective stakes | Critical |
+| [C-01](#c-01-stuck-funds-for-the-later-delegators-due-to-an-edge-case-led-to-double-decreasing-effective-stakes) | Stuck funds for the later delegators due to an edge case led to double decreasing effective stakes | Critical |
 
 # [C-01] Stuck funds for the later delegators due to an edge case led to double decreasing effective stakes
 
