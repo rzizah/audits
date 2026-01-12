@@ -33,7 +33,7 @@ The cost of an audit depends on two main factors:
 1. **Code Size** (measured in Lines of Code, or LOC),
 2. **Code Complexity** (e.g., integrations, complex math, YUL code).
 
-**Rate**: Negotiable and is up-to 10 USDC per LOC based on [ConsenSys Solidity Metrics](https://github.com/Consensys/solidity-metrics). Prices vary with complexity.
+**Rate**: Negotiable, vary with complexity and is being determined per LOC based on [ConsenSys Solidity Metrics](https://github.com/Consensys/solidity-metrics).
 
 ### Estimated Duration
 
